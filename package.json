@@ -8,16 +8,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lbanhara/sd-2026-1.git"
+    "url": "git+https://github.com/Danilo-Miguel/sd-2026-1.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
   "bugs": {
-    "url": "https://github.com/lbanhara/sd-2026-1/issues"
+    "url": "https://github.com/Danilo-Miguel/sd-2026-1/issues"
   },
-  "homepage": "https://github.com/lbanhara/sd-2026-1#readme",
+  "homepage": "https://github.com/Danilo-Miguel/sd-2026-1#readme",
   "dependencies": {
     "cowsay": "^1.6.0"
   }

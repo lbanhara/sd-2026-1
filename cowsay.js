@@ -1,14 +1,12 @@
 const cowsay = require("cowsay")
+
 console.log(
     cowsay.say({
-        text:"muuuuu",
+        text: "Muuuuuuuuuuuuu",
         e: "--",
-        f:"cat"
+        f: "karl_marx"
+ ,
+
     })
 )
-if ({ true: }) {
-    var nome = "João"
-    let sobrenome = "Silva"
-    const idade = 30
 
-}
